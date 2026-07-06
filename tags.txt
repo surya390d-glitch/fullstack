@@ -1,0 +1,80 @@
+1.HEADING TAGS:
+    <h1> heading tag </h1>
+    <h1> heading tag </h1>
+    <h1> heading tag </h1>
+    <h1> heading tag </h1>
+    <h1> heading tag </h1>
+    <h6> heading tag </h6>
+
+2.IMAGE add:
+    <img src = "image link/image address> vijay image </img>
+
+3.LINK add:
+    <a href = " link"> click </a>
+
+4.PHARAGRAPH tag:
+    <p> type your phara/ lorem n <p>
+
+5.BREAK Tag:
+    <br>
+
+6.CENTER Tag:
+    <center> 
+        write the functions inside the center tag   
+        <h1> </h1>
+        <p> </p>
+        <img src =""> <img> <br>
+        <a href =""> <a>
+    </center>  
+
+7.HTML LISTS(2 typed):
+   1.ordered list:;
+      <ol>
+         <li> one </li>
+         <li> one </li>
+         <li> one </li>
+      </ol>
+
+   2.unordered list:
+      <ul>
+         <li> one </li>
+         <li> one </li>
+         <li> one </li>
+      </ul>
+
+8.ANOTHER WEB INSIDE YOUR PROJECT:
+    <iframe src = ""> </iframe>
+
+9.LINE CREATING TAG:
+    <hr>
+
+10.HTML total versions 5:
+   1.HTMl boiler plate(format):
+   
+     <!DOCTYPE html>
+     <html>
+
+        <head>
+          inside the head important titles ans links shoud be there
+        </head>
+
+        <body>
+            
+        </body>
+
+     </html>
+
+11. HTML TABLES & FORMS
+  <table border = "1">
+     <tr>
+        <td> name </td> <td>age</td>
+     </tr>
+  </table>
+
+12. FORMS:
+   <form>
+      Name: <input type = "txt">
+      Age: <imput type = "number">
+   </form>
+
+
