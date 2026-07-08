@@ -81,5 +81,13 @@
    <button></button>
    <feildset></fieldset>
 
+13.SEMATIC HTML TAGS:
+  *header
+  *<nav>
+  *main
+  *<section>
+  *<article>
+  *<a side>
+  *<footer>
 
 
