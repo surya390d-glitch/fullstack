@@ -89,5 +89,38 @@
   *<article>
   *<a side>
   *<footer>
+14. MULTIMEDIA TAGS:
+   *audio tag:
+       <audio controls>
+         <source src = "aud.mp3" type = "audio/mp3">
+       </audio>
+   
+   *video tag:
+        <video width="400px" controls>
+         <source src = "vid.mp3" type = "video/mp4">
+       </video>
+---------------------------------------------------------------------------------------------------------------------
+CSS TAGS
+
+1.CSS SELECTORS:
+  *Element Selectors = tag name ex: h1{},p{}...,etc.
+  *Class Selectors = using .classname ex: .one{} */
+  *id Selectors = using #classname ex: #two{} *dont duplicate unique name address
+  *Universal Selectors = using * ex: *h1{} 
+
+2.CSS BOX MODELS:
+  *margin
+  *borders
+  *padding
+  *content
+
+
+3.DISPLAY PROPERTY:
+  *inline
+  *inline-block
+  *block
+  *none
+
+
 
 
