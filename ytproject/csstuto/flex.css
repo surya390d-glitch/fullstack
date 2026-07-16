@@ -1,0 +1,21 @@
+div {
+    background-color: darkorchid;
+    color: white;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.con div {
+    padding: 20px;
+    width: 200px;
+    margin: 5px;
+    flex-basis: 18%;
+    flex-grow: 1;
+}
+
+img {
+    height: 500px;
+    width: 400px;
+}

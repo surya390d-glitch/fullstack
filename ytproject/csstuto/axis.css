@@ -1,0 +1,19 @@
+.fcon {
+    background-color: skyblue;
+    height: 700px;
+    width: 100%;
+    display: flex;
+}
+
+div {
+    background-color: black;
+    height: 400px;
+    width: 200px;
+    flex-direction: row;
+    justify-content: center;
+}
+
+h1 {
+    background-color: yellow;
+    color: yellow;
+}

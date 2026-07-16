@@ -1,0 +1,16 @@
+div {
+    background-color: purple;
+    color: black;
+    padding: 10px;
+    display: flex;
+    position: inline-block;
+    flex-wrap: wrap;
+}
+
+h1 {
+    background-color: white;
+    color: black;
+    margin: 5px;
+    flex-basis: 20%;
+    flex-grow: 1;
+}

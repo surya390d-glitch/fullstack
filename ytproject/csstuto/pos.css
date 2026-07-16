@@ -1,0 +1,51 @@
+.box {
+    background-color: lightgreen;
+    color: black;
+    height: 500px;
+    width: 700px;
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;
+    position: relative;
+    left: 500px;
+    top: 200px;
+}
+
+h1 {
+    position: absolute;
+    left: 300px;
+    top: 50px;
+}
+
+.t {
+    position: absolute;
+    left: 300px;
+    top: 10px;
+}
+
+p {
+    position: absolute;
+    left: 300px;
+    top: 120px;
+    right: 100px;
+}
+
+.imgg {
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;
+    height: 220px;
+    width: 220px;
+    position: relative;
+    top: 300px;
+    left: 430px;
+    z-index: 2;
+}
+
+img {
+    border-style: solid;
+    border-color: white;
+    border-width: 10px;
+    height: 400px;
+    width: 300px;
+}
